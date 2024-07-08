@@ -1,5 +1,5 @@
 #  Cubic Scene
-Cubic Scene is a visionOS app that shows hand size 3D animated model
+Cubic Scene is a visionOS app that shows palm size 3D animated model
 
 ## Demo Video
 
